@@ -1,5 +1,7 @@
 # The Blog - Next.js Blog Platform
 
+https://blog-post-viewer-app-theta.vercel.app/
+
 A beautiful, modern blog platform built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Features
